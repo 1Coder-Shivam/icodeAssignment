@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: IcodeTestApplication
+  data:
+    mongodb:
+      uri: mongodb://localhost:27017
+      database: icode
+
+
+server:
+  port: 8083
